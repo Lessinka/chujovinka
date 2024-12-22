@@ -1,0 +1,38 @@
+body {
+  background-color: #d4bff9; /* Light purple background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  margin: 0;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+
+.message h1 {
+  color: white;
+  font-size: 3rem;
+  margin-bottom: 0.5rem;
+}
+
+.message p {
+  color: white;
+  font-size: 1.5rem;
+}
+
+.characters {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+}
+
+img {
+  width: 150px;
+  height: auto;
+}

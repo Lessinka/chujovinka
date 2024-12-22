@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Merry Christmas</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <div class="message">
+      <h1>Merry Christmas</h1>
+      <p>I love you so much, thank you for being in my life!</p>
+    </div>
+    <div class="characters">
+      <img id="dino" src="dino.png" alt="Cute Dinosaur">
+      <img id="shark" src="shark.png" alt="Cute Shark">
+    </div>
+  </div>
+</body>
+</html>
